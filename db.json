@@ -1,0 +1,32 @@
+{
+  "players": [
+    {
+      "id": "e3e61e43-63b8-402a-a82e-d33149189ef2",
+      "name": "Paulo Dybala",
+      "age": 25,
+      "number": 10,
+      "image": "dybala.jpg"
+    },
+    {
+      "id": "25b657c4-1229-403c-980d-eb44c3867950",
+      "name": "Douglas Costa",
+      "age": 29,
+      "number": 11,
+      "image": "costa.jpg"
+    },
+    {
+      "id": "92e22cf3-a777-47ce-9fad-86d47805e60d",
+      "name": "Cristiano Ronaldo",
+      "age": 34,
+      "number": 7,
+      "image": "ronaldo.jpg"
+    },
+    {
+      "id": "f1c0405f-7156-4ee4-a923-dd2f764edd9f",
+      "name": "Miralem Pjanic",
+      "age": 29,
+      "number": 5,
+      "image": "pjanic.jpg"
+    }
+  ]
+}
